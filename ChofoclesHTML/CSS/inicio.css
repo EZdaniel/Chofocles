@@ -1,0 +1,93 @@
+﻿body {
+
+
+    
+}
+.form1 {
+    margin-left: -10px;
+    margin-top: -10px;
+    background-image:  url("../Img/header.png");
+    background-repeat: no-repeat;
+    width:1260px;
+    height:650px;
+    top: -10px;
+    position:fixed;
+
+
+}
+.back {
+    height:700px;
+    width:1280px;
+    margin-top:-10px;
+    background-image:  url("../Img/IMG_7519.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:fixed;
+    z-index: -1;
+}
+
+
+
+
+
+
+
+
+.btn {
+    z-index:1;
+}
+.buttonIn {
+    margin-top:220px;
+    margin-left:-10px;
+    width: 170px;
+    height: 85px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+}
+.buttonMe {
+    margin-top:292px;
+    margin-left:-10px;
+    width: 170px;
+    height: 85px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+
+}
+.buttonHi {
+    margin-top:364px;
+    margin-left:-10px;
+    width: 170px;
+    height: 85px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+}
+.buttonCo {
+    margin-top:436px;
+    margin-left:-10px;
+    width: 170px;
+    height: 85px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+}
+
+
